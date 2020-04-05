@@ -54,7 +54,7 @@
     "identicon.js": "^2.3.3",
     "immutable": "^4.0.0-rc.12",
     "jest": "^25.1.0",
-    "jquery": "^1.9.1",
+    "jquery": "^1.12.4",
     "jw-react-pagination": "^1.0.7",
     "lodash": "^4.17.15",
     "lorem-ipsum": "^1.0.6",
